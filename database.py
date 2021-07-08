@@ -1,7 +1,7 @@
 from tkinter import *
 from tkinter import scrolledtext, messagebox
 import sqlite3
-
+ 
 window = Tk()
 
 window.geometry('1050x550')
